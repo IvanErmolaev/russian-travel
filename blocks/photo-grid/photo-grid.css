@@ -1,0 +1,16 @@
+.photo-grid__list {
+    width: 100%;
+    margin: 0 auto 92px;
+}
+
+@media screen and (max-width: 1023px;) {
+    .photo-grid__list {
+        margin: 0 auto 88px;
+    }
+}
+
+@media screen and (max-width: 767px;) {
+    .photo-grid__list {
+        margin: 0 auto 64px;
+    }
+}

@@ -1,0 +1,21 @@
+.footer__links {
+    margin: 0;
+    padding: 0;
+}
+
+
+.footer__links li {
+    display: inline;
+
+}
+
+@media screen and (max-width: 767px) {
+    .footer__links li {
+        display: table;
+        margin: 32px 0;
+    }
+
+    .footer__links li:last-of-type {
+        margin: 0;
+    }
+}

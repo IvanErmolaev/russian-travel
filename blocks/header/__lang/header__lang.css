@@ -1,0 +1,5 @@
+.header__lang {
+    align-self: end;
+    justify-self: end;
+    display: flex;
+}
