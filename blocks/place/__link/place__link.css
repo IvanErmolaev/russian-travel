@@ -8,6 +8,7 @@
 	line-height: 22px;
 	text-align: left;
 	display: block;
+	letter-spacing: 0;
 }
 
 .place__link:hover {
